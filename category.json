@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "category":"formal"
+    },
+    {
+        "id":2,
+        "category":"boots"
+    },
+    {
+        "id":3,
+        "category":"sneakers",
+    },
+    {
+        "id":4,
+        "category":"running"
+    }
+
+]
